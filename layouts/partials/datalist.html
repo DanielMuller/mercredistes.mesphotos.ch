@@ -1,7 +1,7 @@
 <article>
   <div class="row columns is-multiline">
   {{ range sort (index .Site.Data .Params.Year) "date" "desc" }}
-    <div class="column is-2-desktop is-3-tablet">
+    <div class="column is-3-tablet is-one-fifth-desktop is-one-fifth-widescreen is-2-fullhd">
       <a href="{{.url}}" target="_blank">
       <div class="card is-hidden-mobile">
         {{ if .image }}
