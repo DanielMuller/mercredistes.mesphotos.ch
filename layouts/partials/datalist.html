@@ -1,16 +1,33 @@
-<div class="tabs is-centered is-medium is-boxed is-toggle">
-  <ul>
-  {{ range sort (readDir "data") "Name" "desc"}}
-    {{ $linkYear := replace .Name ".json" "" }}
-    <li{{ if eq $linkYear $.year }} class="is-active"{{ end }}><a href="{{ $linkYear |absURL }}">{{ $linkYear }}</a></li>
-  {{ end }}
-  </ul>
-</div>
-
 <article>
-  <ul>
-  {{ range index $.context.Site.Data $.year }}
-    <li><a href="{{ .url }}" target="_blank">{{ .date }} - {{ .name }} ({{ .photographe }})</a></li>
-  {{ end }}
-  </ul>
+  <div class="row columns is-multiline">
+  {{ range index .Site.Data .Params.Year }}
+    <div class="column is-2">
+      <a href="{{.url}}" target="_blank">
+      <div class="card">
+      {{if .image}}
+        {{ $resource := resources.Get .image }}
+        {{ if $resource }}
+          {{ $image1 := $resource.Fit "300x200" }}
+          {{ $image2 := $resource.Fit "100x66" }}
+          <div class="card-image">
+            <figure class="image is-3by2">
+              <img src="{{ $image1.Permalink }}" alt="">
+              {{ if .photographer }}
+                <figcaption class="is-overlay is-relative has-background-dark has-text-right" style="opacity:0.8;padding:0.2rem"><p class="has-text-white is-size-7" style="opacity:1">{{ .photographer }}</p></figcaption>
+              {{ end }}
+            </figure>
+          </div>
+        {{ end }}
+        {{ end }}
+        <div class="card-content" style="padding:0.3rem">
+          <div class="content">
+            <p class="title is-5">{{ .name }}</p>
+            <p class="subtitle is-7 is-italic">{{ .date }}</p>
+          </div>
+        </div>
+      </div>
+      </a>
+    </div>
+  {{end}}
+  </div>
 </article>

@@ -1,7 +1,24 @@
 <header class="site-header" role="banner">
-  <nav class="navbar is-info">
-    <div class="navbar-item">
-      <h1 class="title">{{ .Site.Title | title }} - {{ .Site.Params.Description | title }}</h1>
+  <nav class="navbar is-primary">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item is-size-5-widescreen is-size-7-mobile" href="#" style="font-weight:bold;">{{ .Site.Title | title }} - {{ .Site.Params.Description | title }}</a>
+        <span class="navbar-burger burger" data-target="navMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+      <div id="navMenu" class="navbar-menu">
+        <div class="navbar-end">
+          {{ range sort (readDir "data") "Name" "desc"}}
+            {{ $linkYear := replace .Name ".json" "" }}
+            <a href="{{ $linkYear |absURL }}" class="navbar-item{{ if eq $linkYear $.Params.Year }} is-active{{ end }}">{{ $linkYear }}</a>
+          {{ end }}
+        </div>
+      </div>      <!-- <div class="navbar-item">
+        <h1 class="title">{{ .Site.Title | title }} - {{ .Site.Params.Description | title }}</h1>
+      </div> -->
     </div>
   </nav>
 </header>
