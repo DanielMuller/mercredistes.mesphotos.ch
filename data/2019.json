@@ -1,404 +1,538 @@
 [
   {
-    "date": "31.07.2019",
+    "date": "2019-07-31",
     "name": "Tour de la Dent de Chamosentse",
-    "photographe": "Claire Aeschimann",
-    "url": "https://photos.app.goo.gl/k3isDSeMVXYLyHZv8"
+    "photographer": "Claire Aeschimann",
+    "url": "https://photos.app.goo.gl/k3isDSeMVXYLyHZv8",
+    "image": "images/2019/photos-app-goo-gl-k3isDSeMVXYLyHZv8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/Wf9K-d9Kfm7ApPTCNGf5rf6zIUOsFSoQguAC4c5n8dA1LI4d8pWzRZXTK4Lc07-nhOsJplnTVmadC_pSgseI5UJfUCfPakj1_-OHTONs-28nKC46RgWA4H8l9noXSR6RN_VUGVf7pt4=w600-h315-p-k"
   },
   {
-    "date": "31.07.2019",
+    "date": "2019-07-31",
     "name": "Tour de la Dent de Chamosentse",
-    "photographe": "Silvio Guindani",
-    "url": "https://photos.app.goo.gl/QkhgUSZ2cnJsYRf48"
+    "photographer": "Silvio Guindani",
+    "url": "https://photos.app.goo.gl/QkhgUSZ2cnJsYRf48",
+    "image": "images/2019/photos-app-goo-gl-QkhgUSZ2cnJsYRf48.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/m1WvGbtkKjDE0ZaHOrepPAmu6UJ7WBDFmD_ZGMhZLxWyESgXJmnnOQCcleO2Mu854n7gPlHNxOIcKLbtUxAu_LAMUyqB_0B1tEge8gt1BZIZI8ChUe4dHG0lQIdCh-ThrDv7u5_TgP0=w600-h315-p-k"
   },
   {
-    "date": "31.07.2019",
+    "date": "2019-07-31",
     "name": "Tour de la Dent de Chamosentse",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmFFH8V8"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmFFH8V8",
+    "image": "images/2019/flic-kr-s-aHsmFFH8V8.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48426246287_d0e9b811f1_h.jpg"
   },
   {
-    "date": "24.07.2019",
+    "date": "2019-07-24",
     "name": "Tour du Grand Château",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmFtCyAn"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmFtCyAn",
+    "image": "images/2019/flic-kr-s-aHsmFtCyAn.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48373231037_ad3d019061_h.jpg"
   },
   {
-    "date": "17.07.2019",
+    "date": "2019-07-17",
     "name": "Novel, Col de la Croix, Col d'Ugeon, Col de Bise",
-    "photographe": "Diane Gagnon",
-    "url": "https://photos.app.goo.gl/HvHdzFoGFAJLQhRn8"
+    "photographer": "Diane Gagnon",
+    "url": "https://photos.app.goo.gl/HvHdzFoGFAJLQhRn8",
+    "image": "images/2019/photos-app-goo-gl-HvHdzFoGFAJLQhRn8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/GdQMlgaalQHGfs00PXn2E0OCQhJz60OFmBJs8eHY_8pLNbnYmV2CmttWPoh7VTU6t7eoLDv6lzR4DsPqmQ2iP3XKz-1ez6GSLiwPHeJevIWrshxE64FewAO51XALlbhyVYF3Q_GVIeY=w600-h315-p-k"
   },
   {
-    "date": "10.07.2019",
+    "date": "2019-07-10",
     "name": "Goreges du Dalley et Lac de Salanfe",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/2iSzaG2U9FrHLy5j7"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/2iSzaG2U9FrHLy5j7",
+    "image": "images/2019/photos-app-goo-gl-2iSzaG2U9FrHLy5j7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/XVkXHtHfrsXpRIlcz7E6_ysMKYf_SzswjXHMsHv5xeCayN_LO6LpxfcxYlJEyJO4J0RUlnRrvz3nbYyOGft_K4gJHAoMbjr6mCII1zgjWzFH3RqkRiuwGvOyrvIapCwx-N-XCQfNoAs=w600-h315-p-k"
   },
   {
-    "date": "03.07.2019",
+    "date": "2019-07-03",
     "name": "Bérisal-Kehr - Col du Simplon",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmEM6stP"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmEM6stP",
+    "image": "images/2019/flic-kr-s-aHsmEM6stP.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48195152202_3240cf1c66_h.jpg"
   },
   {
-    "date": "03.07.2019",
+    "date": "2019-07-03",
     "name": "Bérisal-Kehr - Col du Simplon",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/sLfqdLFvLRJoZDzx6"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/sLfqdLFvLRJoZDzx6",
+    "image": "images/2019/photos-app-goo-gl-sLfqdLFvLRJoZDzx6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/KZ5ix88TZfyi9fl1SaI5FEerbO_I5NY3VyRI6mF7eprZbr2xuINOBCf0r3UQiknacqmrnQTWo_-wU2k8UXDOFfQFNidFsqmCn0hSV1cwDtkOUNPhDBubFY04huvFbgn0agGmbZloI4g=w600-h315-p-k"
   },
   {
-    "date": "03.07.2019",
+    "date": "2019-07-03",
     "name": "Le Cubly en traversée",
-    "photographe": "Edith Piguet",
-    "url": "https://photos.app.goo.gl/eZLPDruq7j1DMwoNA"
+    "photographer": "Edith Piguet",
+    "url": "https://photos.app.goo.gl/eZLPDruq7j1DMwoNA",
+    "image": "images/2019/photos-app-goo-gl-eZLPDruq7j1DMwoNA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/WHs3PnO67X1VIrzov94KiXI1HX1y4PqDzcZCWL_YLb5LXl0AHlnMYb4Q6q4A5vdfQoJUYKhsGuN2kcyWK_rStu5Y8aHxy5vMRVc8sRvRlIc7beajFEFs-uoG_DrwrJBqvsOmOhXCch0=w600-h315-p-k"
   },
   {
-    "date": "03.07.2019",
+    "date": "2019-07-03",
     "name": "Le Cubly en traversée",
-    "photographe": "Silvio Guindani",
-    "url": "https://photos.app.goo.gl/Pvb8X9dBhF6tM5rv8"
+    "photographer": "Silvio Guindani",
+    "url": "https://photos.app.goo.gl/Pvb8X9dBhF6tM5rv8",
+    "image": "images/2019/photos-app-goo-gl-Pvb8X9dBhF6tM5rv8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/qEtvUj_JX6nMpzZrLtn4EqefNjOk-V8XFyKeJ-R3rHer7mnKuqbhCA9WIfQtMR6IAboupqwwoxV4kyS6J6WiMUQ2JraKuoIir4TXtyalzfyRVXCnd_EYhbFpPIv3QJSxidG83R1lC0M=w600-h315-p-k"
   },
   {
-    "date": "26.06.2019",
+    "date": "2019-06-26",
     "name": "Riederalp - Blatten 26-27.06.2019",
-    "photographe": "Willy Muller",
-    "url": "https://photos.app.goo.gl/rVNBEqF33i1KVYUZ8"
+    "photographer": "Willy Muller",
+    "url": "https://photos.app.goo.gl/rVNBEqF33i1KVYUZ8",
+    "image": "images/2019/photos-app-goo-gl-rVNBEqF33i1KVYUZ8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/b7mm7VrbPgYnnrsmakDIcnIr4vNg0jmWBCJivYiICgCQp9pg-cMUouaDeVhXa2pX7k2ucbD8tKqWWTOjXUH1hRUrHwV_Vsf5Z9c5y2297CKmyPyAmimb6mpLfzqXdGvoPwM-GDfq3EM=w600-h315-p-k"
   },
   {
-    "date": "26.06.2019",
+    "date": "2019-06-26",
     "name": "Javerne - La Tourche",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmExqGWQ"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmExqGWQ",
+    "image": "images/2019/flic-kr-s-aHsmExqGWQ.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48134368852_335d0994ff_h.jpg"
   },
   {
-    "date": "19.06.2019",
+    "date": "2019-06-19",
     "name": "Hundsrügg",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmEpx5Ms"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmEpx5Ms",
+    "image": "images/2019/flic-kr-s-aHsmEpx5Ms.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48099011577_fefe183e17_h.jpg"
   },
   {
-    "date": "19.06.2019",
+    "date": "2019-06-19",
     "name": "Hundsrügg",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/qXyrHH3SNFN1kC9j8"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/qXyrHH3SNFN1kC9j8",
+    "image": "images/2019/photos-app-goo-gl-qXyrHH3SNFN1kC9j8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/PV5vc8b62SRQh1iB2xjFlXetXZ8SnwvWulH59AJn3lolc96Sq_QpLO1MJaOCnIdPjLDvjYsoTScb_hTwFJStRVwyUmfNEt7q-35hHD0AjEnfWdu1JCY4BcRKaTBxmcZcsTbhVEu3DjE=w600-h315-p-k"
   },
   {
-    "date": "12.06.2019",
+    "date": "2019-06-12",
     "name": "La Riondaz",
-    "photographe": "Michel Fardel",
-    "url": "https://photos.app.goo.gl/4WNynzmDRvsYkXCX7"
+    "photographer": "Michel Fardel",
+    "url": "https://photos.app.goo.gl/4WNynzmDRvsYkXCX7",
+    "image": "images/2019/photos-app-goo-gl-4WNynzmDRvsYkXCX7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/VPpafmV9SkeYK1v0sjqCVcUjO6vgeCQMXtE82u62Y6Y0uxqvIynbimh8qP4bkNmk0U9HkIIIUeZAm1NFlDnNmD8KOr3ET8EgXeKjnOalOds-yAjf0oT96VLaSR1vQkUO1-2XyNtbzRI=w600-h315-p-k"
   },
   {
-    "date": "05.06.2019",
+    "date": "2019-06-05",
     "name": "Pfiffe",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmE3P4Qg"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmE3P4Qg",
+    "image": "images/2019/flic-kr-s-aHsmE3P4Qg.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/48009173007_aee3f0f36f_b.jpg"
   },
   {
-    "date": "05.06.2019",
+    "date": "2019-06-05",
     "name": "Pfiffe",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/EvJEPovWUzvJKTU67"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/EvJEPovWUzvJKTU67",
+    "image": "images/2019/photos-app-goo-gl-EvJEPovWUzvJKTU67.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/WIeFcfYZNAF0iLpqHgf13KRJghefI4pV0gmm2eWQasevvP9zL4cen3L4Wi414C6oFo0rfmNWvki_YS8nNP5kSnl-y9cCi2RndfQ0YPORuVh1EMwofFuzQJ0Gt3qihzYo3KMU5NGgU8k=w600-h315-p-k"
   },
   {
-    "date": "29.05.2019",
+    "date": "2019-05-29",
     "name": "Les Pléiades",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/TajbtHcQG26iaWUeA"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/TajbtHcQG26iaWUeA",
+    "image": "images/2019/photos-app-goo-gl-TajbtHcQG26iaWUeA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/kRPVde3KuIkIOWknAl2wgwuEx7Kiu_AwkNRvIo1Jn1DCDYKvt-NhFTtiVdK3xy8HEBzrsyw2Eqaldox4cbgZ2YAjonbe9sNZDNqva931emlkJbZZheDDrn1oG0hrg_JNHEgFLN6YMnM=w600-h315-p-k"
   },
   {
-    "date": "22.05.2019",
+    "date": "2019-05-22",
     "name": "Sortie à vélo",
-    "photographe": "Willy Muller",
-    "url": "https://photos.app.goo.gl/2wuo2RCXxsiPvj9z8"
+    "photographer": "Willy Muller",
+    "url": "https://photos.app.goo.gl/2wuo2RCXxsiPvj9z8",
+    "image": "images/2019/photos-app-goo-gl-2wuo2RCXxsiPvj9z8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/mhWfce3tL_s_LxN0Uozdg1cNn8QFmUnCz215PgKa4Z9PsxvhW3ta4RTqPUPVzmLJjab0sTHnJOTNW989O2_lHE-VVVAvS-G5eIIFlLcrZ6wm58hv9fYd_0O3TFOiZfilAt9Lzh-lIuo=w600-h315-p-k"
   },
   {
-    "date": "22.05.2019",
+    "date": "2019-05-22",
     "name": "Le Suchet",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmDJYh2k"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmDJYh2k",
+    "image": "images/2019/flic-kr-s-aHsmDJYh2k.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/47923299392_d2b99334ca_b.jpg"
   },
   {
-    "date": "15.05.2019",
+    "date": "2019-05-15",
     "name": "Saut du Doubs",
-    "photographe": "Alain Guidetti",
-    "url": "https://photos.app.goo.gl/dPJqW1SRYLufLRRq6"
+    "photographer": "Alain Guidetti",
+    "url": "https://photos.app.goo.gl/dPJqW1SRYLufLRRq6",
+    "image": "images/2019/photos-app-goo-gl-dPJqW1SRYLufLRRq6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/bbZ9-B1-AFMoCEIyxZ--ovNNO20JgltANOumE2wctzddZMJJmkbp3rEcK7CQdV9lrShTRF7MOofoYKa8Xf5MUSevGYpv00qOD2NLBUY8Yrzb8m8qGTQsiVbKbS6jyObz7If96ifKhyc=w600-h315-p-k"
   },
   {
-    "date": "15.05.2009",
+    "date": "2009-05-15",
     "name": "La Joux Noire",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmDxFVej"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmDxFVej",
+    "image": "images/2009/flic-kr-s-aHsmDxFVej.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/33985966718_14e3817bc7_h.jpg"
   },
   {
-    "date": "15.05.2019",
+    "date": "2019-05-15",
     "name": "La Joux Noire",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/LKHQAT1xK2WPYUdU9"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/LKHQAT1xK2WPYUdU9",
+    "image": "images/2019/photos-app-goo-gl-LKHQAT1xK2WPYUdU9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/GIr0QJ0u6s3ubAdPXMXza2QkTc3s7h16QGlKfgvo8649traXVbK_K9nrmf4uMURSNdKBvByp2XbhpoxC2tqycTVCX9kTczajI6-FTmBSo-hOr1hGmxj54wAtIJp_9boxTioqphXhoqU=w600-h315-p-k"
   },
   {
-    "date": "15.05.2019",
+    "date": "2019-05-15",
     "name": "Saut du Doubs",
-    "photographe": "Silvio Guindani",
-    "url": "https://photos.app.goo.gl/XyjmbNcbZdsQpBvV7"
+    "photographer": "Silvio Guindani",
+    "url": "https://photos.app.goo.gl/XyjmbNcbZdsQpBvV7",
+    "image": "images/2019/photos-app-goo-gl-XyjmbNcbZdsQpBvV7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/pMTqsYz7sMfjGgEcxDmMx7UbcvvoMRvN42cMajUn4bIyEdB9_BZx2ZOc6VNAISdrLKVhy2_7HFSYqd8716sIWRyinm5XqM2IB5hvu_UnS3KnssyPj8k9AuPmf4c_aaikw0miGrYmRsw=w600-h315-p-k"
   },
   {
-    "date": "08.05.2019",
+    "date": "2019-05-08",
     "name": "Niremont",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmy3JwqQ"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmy3JwqQ",
+    "image": "images/2019/flic-kr-s-aHsmy3JwqQ.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/47753598142_4f527eccc1_h.jpg"
   },
   {
-    "date": "08.05.2019",
+    "date": "2019-05-08",
     "name": "Niremont",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/9uwC37NN22u4zpip7"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/9uwC37NN22u4zpip7",
+    "image": "images/2019/photos-app-goo-gl-9uwC37NN22u4zpip7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/DWCI3b7eXed7G-tzCiMdau67SKNSyz1paBxcWlbGbvVabCe8VhT1ISsLBDOGvqY8uO-jyex500LV_7jWS-_W7xizVP5hA9LzfsvAxh9VG-KHIE8S4-aJ-r2JGZSar1NL9aY5SlO8o6o=w600-h315-p-k"
   },
   {
-    "date": "01.05.2019",
+    "date": "2019-05-01",
     "name": "Balade le long de la Jogne",
-    "photographe": "Willy Muller",
-    "url": "https://photos.app.goo.gl/uE8xesqsLujDK68N7"
+    "photographer": "Willy Muller",
+    "url": "https://photos.app.goo.gl/uE8xesqsLujDK68N7",
+    "image": "images/2019/photos-app-goo-gl-uE8xesqsLujDK68N7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/ctrp2sOMT0h1guRIsiT2QJCAZS1tdFzu1aWcgRWBtUfT-fDmt0JfEicX8GThAZhyMW16T9WA9RTLCAJaZnlG1D102enmDhWuHa8_V2xoaqmAMVKLNwoic1VZZ427FPy_Sp4C0El6hco=w600-h315-p-k"
   },
   {
-    "date": "01.05.2019",
+    "date": "2019-05-01",
     "name": "Mont Bifé et Vanil des Cours",
-    "photographe": "Sandra Ducommun",
-    "url": "https://photos.app.goo.gl/HdHzoFnvHRds9yrE6"
+    "photographer": "Sandra Ducommun",
+    "url": "https://photos.app.goo.gl/HdHzoFnvHRds9yrE6",
+    "image": "images/2019/photos-app-goo-gl-HdHzoFnvHRds9yrE6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/Xa1pRad2VQK2QzpjiJJTG8pExHFMsH3atr1sebJjqcICLwjI8bMBZBet51zxehR7rjWAgsXKwViDqel2etXb8LJlzWYPJygSpgF-egx4NrMwrdeJMxMJr9dkjcfXDCD6--D_6UCCMuA=w600-h315-p-k"
   },
   {
-    "date": "01.05.2019",
+    "date": "2019-05-01",
     "name": "Mont Bifé et Vanil des Cours",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/mr55T8oogs3mziNLA"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/mr55T8oogs3mziNLA",
+    "image": "images/2019/photos-app-goo-gl-mr55T8oogs3mziNLA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/ur-zSXSC_JR5H3P0V8YDI8yMEyyewQqTbfZou1W6F7iQyb-ZF7qrziQgGfMaSP91tRoAELDRC9rKauX4xhOMdKZ-PGKQib70MYbU9XLdE3cX-rz6Qw5edZ0nl_5xIUz6XWGYLuZuWh0=w600-h315-p-k"
   },
   {
-    "date": "24.04.2019",
+    "date": "2019-04-24",
     "name": "Sentier des Comtes de Gruyères",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmbRnKWp"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmbRnKWp",
+    "image": "images/2019/flic-kr-s-aHsmbRnKWp.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/32751700707_d3b9027e8c_h.jpg"
   },
   {
-    "date": "17.04.2019",
+    "date": "2019-04-17",
     "name": "La Dole par les Pralies",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmxsS3v9"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmxsS3v9",
+    "image": "images/2019/flic-kr-s-aHsmxsS3v9.jpg",
+    "srcImage": "https://live.staticflickr.com/65535/46715448005_d2ee619c83_b.jpg"
   },
   {
-    "date": "10.04.2019",
+    "date": "2019-04-10",
     "name": "Essert-sous-Champvent - Vuiteboeuf",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/2LR4ToSLAdLA2ZHGA"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/2LR4ToSLAdLA2ZHGA",
+    "image": "images/2019/photos-app-goo-gl-2LR4ToSLAdLA2ZHGA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/PzoVRQCYd-C3IO0KbtGE3n0qH1A2elzNkCn84P7dpC2zGIInTgJZqheL0EzkVrILN4VmTI5L-XyYk7v6UC7368u2o0c7YumfQ9xS2jKEQiI4EUiceCaN85ushmGzmFF-nWIj2806ROQ=w600-h315-p-k"
   },
   {
-    "date": "10.04.2019",
+    "date": "2019-04-10",
     "name": "Essert-sous-Champvent - Vuiteboeuf",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/LoHgWFQKKwzqbhW76"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/LoHgWFQKKwzqbhW76",
+    "image": "images/2019/photos-app-goo-gl-LoHgWFQKKwzqbhW76.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/a0_E6PnyRCxWG_zRadfuwOlmPitwDSt2WCJxbW89ILaIX0SQprjcGAPaIO1KrIphxXNagnJwPAulnbA5rwgIoDeJFJAKyLXsrDqWzsu8Z9fw7XKZTqE5J3ZVtJZxh2MWng_JNoUPi7E=w600-h315-p-k"
   },
   {
-    "date": "03.04.2019",
+    "date": "2019-04-03",
     "name": "Vallorbe - Le Day",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/WMNAnNvtXQRTnm6a8"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/WMNAnNvtXQRTnm6a8",
+    "image": "images/2019/photos-app-goo-gl-WMNAnNvtXQRTnm6a8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/hsy_YVlekXvqsM-szHgvyxfN-H5M3qR4ng6gM1K2dLTUc9cfl8P3l42GquwSe8C_5yAI--arq2wE21DFKOwrVLWM-LchNrWD2l7_ycz-c7715VPW0Vqis7YtZYVoLZIY9sAkx_UUZbc=w600-h315-p-k"
   },
   {
-    "date": "27.03.2019",
+    "date": "2019-03-27",
     "name": "Les Diablerets - Isenau",
-    "photographe": "Rapport de course",
-    "url": "https://photos.app.goo.gl/NkWbQRwuxQX1DS418"
+    "photographer": "Rapport de course",
+    "url": "https://photos.app.goo.gl/NkWbQRwuxQX1DS418",
+    "image": "images/2019/photos-app-goo-gl-NkWbQRwuxQX1DS418.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/YvViGl2sYigPzAczNAOpb0SoHp3A-2sA7ow1FeW3uLQZHfGF3Nj8_2XaxEfyUMmuawYTJPTX44N1VTMZtDuZNbHYu8cq6DLkN5TcKAMStFvVls5w5VKyYaIc4k6F20UorEqhAzlNqEA=w600-h315-p-k"
   },
   {
-    "date": "27.03.2019",
+    "date": "2019-03-27",
     "name": "Les Diablerets - Isenau",
-    "photographe": "Hans Hitly",
-    "url": "https://photos.app.goo.gl/UZ9SxghynXu3kKB86"
+    "photographer": "Hans Hitly",
+    "url": "https://photos.app.goo.gl/UZ9SxghynXu3kKB86",
+    "image": "images/2019/photos-app-goo-gl-UZ9SxghynXu3kKB86.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/gOl5A9KqR8-tPbvKUhLqz7YPPcUo3HNfm54yXdqK6XUF1JcOkLSZds0LVdCm0OsTGPKjsH0GGPXrwHPnEPk3MToa6IveZudoNQ9TjtZEdk6GhZaE1Qo2m6p9M6fZVZf3pGONguMcT38=w600-h315-p-k"
   },
   {
-    "date": "27.03.2019",
+    "date": "2019-03-27",
     "name": "Les Diablerets - Isenau",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmBZN6dr"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmBZN6dr",
+    "image": "images/2019/flic-kr-s-aHsmBZN6dr.jpg",
+    "srcImage": "https://live.staticflickr.com/7855/33603740998_9c8202c708_h.jpg"
   },
   {
-    "date": "20.03.2019",
+    "date": "2019-03-20",
     "name": "Walighürli",
-    "photographe": "Sandra Ducommun",
-    "url": "https://photos.app.goo.gl/yhmvv7VcEWS4QaDz5"
+    "photographer": "Sandra Ducommun",
+    "url": "https://photos.app.goo.gl/yhmvv7VcEWS4QaDz5",
+    "image": "images/2019/photos-app-goo-gl-yhmvv7VcEWS4QaDz5.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/BLWTSsQpAutLtCxrxmhlTvV-cih4mFEqeeK8bEGxHtu4GEVgc3LEqnAq4t_Ku5E2oCrrkqoDQNDAMCqRvPrlmkODg7ThGK53z7Nes28s1wnZL1RMOYpHXl_FMNfIa2QcGsS9MwAvhYw=w600-h315-p-k"
   },
   {
-    "date": "20.03.2019",
+    "date": "2019-03-20",
     "name": "Walighürli",
-    "photographe": "Daniel Rapin",
-    "url": "https://photos.app.goo.gl/HrS53QzYkjieNEMR7"
+    "photographer": "Daniel Rapin",
+    "url": "https://photos.app.goo.gl/HrS53QzYkjieNEMR7",
+    "image": "images/2019/photos-app-goo-gl-HrS53QzYkjieNEMR7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/0M6ri3WPH3d1-FUD8hzJpc1It72Fcu9lz2qaMdzk-kPC1ZEXszlsJt0tKrvavU2jyVYTVti9LaAD5GDjY02vN_bG5vjt6q_KjUHgEosi6_6Pmve07QBoT_2iCDe4IXds_KEPZ25XcZ0=w600-h315-p-k"
   },
   {
-    "date": "20.03.2019",
+    "date": "2019-03-20",
     "name": "Le sentier des braconniers",
-    "photographe": null,
-    "url": "https://flic.kr/s/aHskPQMZcn"
+    "photographer": null,
+    "url": "https://flic.kr/s/aHskPQMZcn",
+    "image": "images/2019/flic-kr-s-aHskPQMZcn.jpg",
+    "srcImage": "https://live.staticflickr.com/7837/47377145082_ac03ae3764_h.jpg"
   },
   {
-    "date": "13.03.2019",
+    "date": "2019-03-13",
     "name": "Champex d'Allesse - Les Follatères",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/goaXNd7UignSHwny6"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/goaXNd7UignSHwny6",
+    "image": "images/2019/photos-app-goo-gl-goaXNd7UignSHwny6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/SRRFeGzYGJv_7SkoHNUfvajek1BMlERBWBDQOTSY6V5YVJLd3MDpfKA6uKfCKYxbZa-iPtVemfE4SvAxk3JYaPh96hOQ1pT9hEUzJnSs-MNuxy4vJeGSuJPMKWrVQmCcwRfMH3m9Fl4=w600-h315-p-k"
   },
   {
-    "date": "06.03.2019",
+    "date": "2019-03-06",
     "name": "Les Pléiades",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/rjesMazCYfz6Pap17"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/rjesMazCYfz6Pap17",
+    "image": "images/2019/photos-app-goo-gl-rjesMazCYfz6Pap17.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/O1_Jbp9WzB4sCbFoqHWLxj3tYIbyyRufg1EeXytH62hQiSrGf3T7OgHUZLoL_1M4STnPjFoCVEWPegzdG0lHsWX5aSGye3L8IUK60R1o8rrREjJwSUwy5G9KCm12isEGee_mhjLb-j4=w600-h315-p-k"
   },
   {
-    "date": "27.02.2019",
+    "date": "2019-02-27",
     "name": "Au-dessus de Novel",
-    "photographe": "Sandra Ducommun",
-    "url": "https://photos.app.goo.gl/5mo4rd6yyeEM4A7p9"
+    "photographer": "Sandra Ducommun",
+    "url": "https://photos.app.goo.gl/5mo4rd6yyeEM4A7p9",
+    "image": "images/2019/photos-app-goo-gl-5mo4rd6yyeEM4A7p9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/usierKQubeNwvg7gXwFRb_RvRpDS6f4skOTsetBqJbrvp2k_NhNmJhgBsw_gJC_q6cFv9jcdxCFwGVcWwbKh9QM6_emjOHh7vaC3b_xYG0vhTA-k2QvchaRJ_Rxegkirgtt-f393fGw=w600-h315-p-k"
   },
   {
-    "date": "27.02.2019",
+    "date": "2019-02-27",
     "name": "La Chia",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHsmBqjPHu"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHsmBqjPHu",
+    "image": "images/2019/flic-kr-s-aHsmBqjPHu.jpg",
+    "srcImage": "https://live.staticflickr.com/7810/46512437124_aeab618fb9_h.jpg"
   },
   {
-    "date": "20.02.2019",
+    "date": "2019-02-20",
     "name": "La Truche",
-    "photographe": "20.02.2019, Franco Aceti",
-    "url": "https://photos.app.goo.gl/wZgz2JQxSPuxADMy9"
+    "photographer": "20.02.2019, Franco Aceti",
+    "url": "https://photos.app.goo.gl/wZgz2JQxSPuxADMy9",
+    "image": "images/2019/photos-app-goo-gl-wZgz2JQxSPuxADMy9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/ULmmPAlsIwwm70lxyZgF_TutP4GIXFPB5S-eWs9wK6c9t--AdE9jpmxwDaIR0DQtZj3bvMNX-eXLI-YiVIFZnZBMSrp-6PkhqVLY50z0V3tNsA8XFEovV8GejC3z13vQV7R-nMg1L9F5qLJMfleAupXrftWKMFOj877BJ3rO-xQi821rfGmHDTl384OJ-Li7zQrMVPHOIj1B6IcF1ve5ckATEnuvAL5lviYWeZwPz3T33xk4ee7Pjd8etmYe7_VMPp0eA5ZHpY6ELSzxs4xXoG6eJXNQKmdDzt4F-3qfLtkUy6OyvhwY27094gwcpnInAk0ES38pZoNxhWgPUOPRUDzTp_4MrF2jhhFGjWiESE2_TPwdN_tpQroeMwf-PjFhj0tKvhhDCHgzVC8tOyjIuzFznxqs9Kf0W-LMd3vP4crmwVicpnR_Qviu3xwBnUqNNTpWHfbXfQ4wqm5d5EzUye36davFRYt7CJrd8bGxpMpsssNwraUr-2x2BE264FKex-LGCZ8jX0h7iCAz9nMb3LY8khqz3GBW-yeWEzKRdSjcVFOJKzzQ9G2suDwfPF8lpYfCs4rwxWzopyDQ3KZ9HFWXYPk1MacBMIfET1GmaKs-zWLSTwHGBEZ4Osg-BHcJG0uJfmfFr8MhsaSUjMqX4YOW1teBF19M3ShZvX9qRdwS7BnjvaA4QkvbnBwS5SED8BF3_HQLdOcv2OM5_UVN=w600-h315-p-k"
   },
   {
-    "date": "20.02.2019",
+    "date": "2019-02-20",
     "name": "Leysin-Solacyre",
-    "photographe": "20.02.2019, Fred Lang",
-    "url": "https://photos.app.goo.gl/y4BnEARcf3SP4HUc7"
+    "photographer": "20.02.2019, Fred Lang",
+    "url": "https://photos.app.goo.gl/y4BnEARcf3SP4HUc7",
+    "image": "images/2019/photos-app-goo-gl-y4BnEARcf3SP4HUc7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/n_G0_NYgTrvGMBHkqJD_Ry0gtDPqf2mUzM6sOgpD-3EgA9SUqfuHdC0fkOrzuzybDHmzpRFLVTQ_p5iMsqHSGwegmmMDEYWeINNtpjxY3QCDI8Lp3LvY1-Ig6MnQ1z1mJSqGeybXMpk=w600-h315-p-k"
   },
   {
-    "date": "20.02.2019",
+    "date": "2019-02-20",
     "name": "Leysin - Solacyre",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHskSb2Hib"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHskSb2Hib",
+    "image": "images/2019/flic-kr-s-aHskSb2Hib.jpg",
+    "srcImage": "https://live.staticflickr.com/7830/47107837512_92a2537a3d_h.jpg"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Diemtigtal en traversée",
-    "photographe": "Didier Perreten",
-    "url": "https://photos.app.goo.gl/WVLMAySjq7dt4MsN8"
+    "photographer": "Didier Perreten",
+    "url": "https://photos.app.goo.gl/WVLMAySjq7dt4MsN8",
+    "image": "images/2019/photos-app-goo-gl-WVLMAySjq7dt4MsN8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/ESTsAGlHIImuftbTBOUDa2codG5pLWv4-i6QzCfHcrtQqVudBf1U122wqwtkkJ7S-7kMqJ-j2hDWWTIXHguH8f1K2seMWv6xxGojtyGKNoFI72QB-dz6D2EyXUpu8fFqrqF9B8-nTtk=w600-h315-p-k"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Diemtigtal en traversée",
-    "photographe": "Bertrand Scholder",
-    "url": "https://photos.app.goo.gl/L6FQbWjokmhZ8zqn9"
+    "photographer": "Bertrand Scholder",
+    "url": "https://photos.app.goo.gl/L6FQbWjokmhZ8zqn9",
+    "image": "images/2019/photos-app-goo-gl-L6FQbWjokmhZ8zqn9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/Tt13MdihY_5X46qOSgdxkX7fJh5_RzZ8xKgXRvkAPW_JjEX2I_S7xDWnEXD-vhZoHwRKsrrPNTHfHpTFynPlfRHBtdcO1Mq05Hz48Rjns-7JtQP2_tFMHMu1u6mUh3QqxlxEyY_NTTk=w600-h315-p-k"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Garten",
-    "photographe": "Sandra Ducommun",
-    "url": "https://photos.app.goo.gl/DkmdPztQBFA5EonG8"
+    "photographer": "Sandra Ducommun",
+    "url": "https://photos.app.goo.gl/DkmdPztQBFA5EonG8",
+    "image": "images/2019/photos-app-goo-gl-DkmdPztQBFA5EonG8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/XsT2lxEMarQFaR0oSYcrIbwZ9YXJN3fprMWLNlT6rY8ztNAUvS5v7visDhjQZkypHt4-Y11dhaqUiqWNsJJ7ZIZMdgsUt9S8hJY1ig8qvI2nUl4L5NJH10U70tDekf8GeHMV_V_Esow=w600-h315-p-k"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Garten",
-    "photographe": "Alain Guidetti",
-    "url": "https://photos.app.goo.gl/sKU5Ysd3CVapqMGLA"
+    "photographer": "Alain Guidetti",
+    "url": "https://photos.app.goo.gl/sKU5Ysd3CVapqMGLA",
+    "image": "images/2019/photos-app-goo-gl-sKU5Ysd3CVapqMGLA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/8CaLD2x2YW18NWCRbW7i56mHo_X2Myax9tZVqfxaBReMsiINzozCu7-WWHFnk8PBb7Ujq6qdkxpuMKO5jxlJ8lEwhvf2SdSgi0L_iPc_oMQU0lkYbswa5M4LmwwQVUC8ztfRJ16VPwY=w600-h315-p-k"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Mase",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/PHx9GmGEtwgXNioy9"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/PHx9GmGEtwgXNioy9",
+    "image": "images/2019/photos-app-goo-gl-PHx9GmGEtwgXNioy9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/SXiYgFwmXtsWLpm2nvZqt6qAA-HbNF3Lsq9mevtD3GWCMqQgMqPxQ1jj6kehvSgAiadQWfUoTZdBe-flHc6uwPl2qvK7Y9mYOvVTwfc4UD5aK7VhCTSvieGf51OOK9IdwqsDcxFxpMo=w600-h315-p-k"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Maze",
-    "photographe": null,
-    "url": "https://flic.kr/s/aHsmypBzNt"
+    "photographer": null,
+    "url": "https://flic.kr/s/aHsmypBzNt",
+    "image": "images/2019/flic-kr-s-aHsmypBzNt.jpg",
+    "srcImage": "https://live.staticflickr.com/7918/40120462283_8e835f6c33_h.jpg"
   },
   {
-    "date": "13.02.2019",
+    "date": "2019-02-13",
     "name": "Du Marchairuz à la buvette du Pralet",
-    "photographe": "Franco Aceti",
-    "url": "https://photos.app.goo.gl/EDdB9ZGw2285NDg77"
+    "photographer": "Franco Aceti",
+    "url": "https://photos.app.goo.gl/EDdB9ZGw2285NDg77",
+    "image": "images/2019/photos-app-goo-gl-EDdB9ZGw2285NDg77.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/TMf8Pukz5qbuVr3Zn8b7PvnZxHH9Z8hXN7t7Z8E3lrEN4M_O52AJwFI6tkgg1D7makla5gMrjudskwdJDiStNrKuvBf2U-7C1uH9CG0OX0fQq26ecMQUPfeKyxDrZzlEBkR_6fskpqDqbqApwtjfe_Qllo4hIvzSdtAEPKHkprhrxMi3RU0F8U94vBD-A7c3A-DBg8uCUK4yWFqRmbWR78miaKiJbwgJKYn3ogkKsRTDOdjGL-li5-MqZwWBSTV6vt4y0TU_epg5fq5EitjQay9lYBvfktSVR7P5YVSjh4FUtjrdt1M7Q_tf-vqLPGCCU-K1yHoWvkRpldijTtCF0LJKExPTLwpSV3xEGbbmNXQ2xj1Df6gmE8p-aBgfGNyNFJBwzCQhPNDA3LFIoFRhJ5VqY4-TnOJ2lnpGPU5YTneewyugSQHAEctGxf_44AsBg1HYOOVS-vkh8uCpk0_vh-y4rl0g-YmqcjeC_SHV54EeGRmhz4xaImSKEl0xAv6CswT7Vn-d0mfz75OCQcGoNES_6Xj9HB0uNHKfJgjGjFB8Gh-oJ1AMrB0VYjQLjKQwrkqO080Cgq7K3X81JDfLOIrsH4TKwAUaqEZURgKHZha1Spaempq69pVhxcC25q2IWGf4Ag5RqZkhPYi_nLUsf3LuqYrixwopaEA1bm2fYx00euvWaXvrhHvg-2yerWmGqo_fUY10YhyqmDO8udz6=w600-h315-p-k"
   },
   {
-    "date": "08.02.2019",
+    "date": "2019-02-08",
     "name": "Vallée de Conches",
-    "photographe": "8-10.02.2019",
-    "url": "https://photos.app.goo.gl/zSXyBxKCvbNpUsjaA"
+    "photographer": "8-10.02.2019",
+    "url": "https://photos.app.goo.gl/zSXyBxKCvbNpUsjaA",
+    "image": "images/2019/photos-app-goo-gl-zSXyBxKCvbNpUsjaA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/GdEpvV4htKJUIbq84UWaQsbrBWXknKGKD_TryIGim9WSeTqF5-HaGK6L34-AH-7A-5hEVuwiARk01J-5svYDIJmi1wmuA9cRQKoGj5fTRQe-kAVtFUjpNjivMCH44o3KqDzCfXQmijU=w600-h315-p-k"
   },
   {
-    "date": "06.02.2019",
+    "date": "2019-02-06",
     "name": "Col du Bastillon",
-    "photographe": "Sandra Ducommun",
-    "url": "https://photos.app.goo.gl/fjZFoMXNmCtV4nEe9"
+    "photographer": "Sandra Ducommun",
+    "url": "https://photos.app.goo.gl/fjZFoMXNmCtV4nEe9",
+    "image": "images/2019/photos-app-goo-gl-fjZFoMXNmCtV4nEe9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/J8-NVqei-_p3ZkZuLcRWRgZOFE-YUMaSAmf4Ho-urfABs9XKKs-ZK1linYchibVNElSWlnqp15Gi316-bLLlZBnvlK3Kw_ltJTFDCcIIyjoy1LZwJN95sOOW1D_Ug1kUfxFpvmZzQ1A=w600-h315-p-k"
   },
   {
-    "date": "06.02.2019",
+    "date": "2019-02-06",
     "name": "Col du Bastillon",
-    "photographe": "Franco Aceti",
-    "url": "https://photos.app.goo.gl/Luyaa3KpcKzpVMJd7"
+    "photographer": "Franco Aceti",
+    "url": "https://photos.app.goo.gl/Luyaa3KpcKzpVMJd7",
+    "image": "images/2019/photos-app-goo-gl-Luyaa3KpcKzpVMJd7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/59INPN4-Z-04OGOdRtQ0x6RB6E5p7qBsYnLzySv8PXjCi0wa5U5LOlgCi_ryXWdpQVx2vGfmFltfTd8huMebnQzUNAMR0lhYD2fKVYt_hFDtDkCYf7vg7ERuzICyWUUBnHBkfsek7pQ=w600-h315-p-k"
   },
   {
-    "date": "06.02.2019",
+    "date": "2019-02-06",
     "name": "Chalet du Soldat",
-    "photographe": "Nicolas Xanthopoulos",
-    "url": "https://flic.kr/s/aHskNjkyVB"
+    "photographer": "Nicolas Xanthopoulos",
+    "url": "https://flic.kr/s/aHskNjkyVB",
+    "image": "images/2019/flic-kr-s-aHskNjkyVB.jpg",
+    "srcImage": "https://live.staticflickr.com/4835/46962338422_b4d83f03c7_h.jpg"
   },
   {
-    "date": "06.02.2019",
+    "date": "2019-02-06",
     "name": "Chalet du Soldat",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/ygrwaXcY7mk6oFJJ8"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/ygrwaXcY7mk6oFJJ8",
+    "image": "images/2019/photos-app-goo-gl-ygrwaXcY7mk6oFJJ8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/e6CjvHR3IXPIMYCfCL4s5aii3yjkJXnbETmXdUc-bBMnzYpZz8iYP3Ths9zemF60zKouNcdcdBEcGfJ0SQ7TTIs5E6BXNwNwMxvB1KKu_HkuK3PfUFW3SabbY1gDKBgHI19g7j4T_PY=w600-h315-p-k"
   },
   {
-    "date": "19.01.2019",
+    "date": "2019-01-19",
     "name": "Bever 19-26.01.2019",
-    "photographe": "Bertrand Scholder",
-    "url": "https://photos.app.goo.gl/Lmd16xBwwo9hDwgt7"
+    "photographer": "Bertrand Scholder",
+    "url": "https://photos.app.goo.gl/Lmd16xBwwo9hDwgt7",
+    "image": "images/2019/photos-app-goo-gl-Lmd16xBwwo9hDwgt7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/93TXu-acGvsfY5YToVhRDQppigEzs_2IrQ4f3oEBgT9QzOHOONnQLxcpcKNIfAfpc0NX1vW1ORxiWL9599niNZBSXrv3hKQapo3J6idehKGST38SPeSdElLT8AEjTYimorN5XnXTc2U=w600-h315-p-k"
   },
   {
-    "date": "30.01.2019",
+    "date": "2019-01-30",
     "name": "De Jaun à Charmey",
-    "photographe": "Fred Lang",
-    "url": "https://photos.app.goo.gl/rUR6NmgfzyCERjKVA"
+    "photographer": "Fred Lang",
+    "url": "https://photos.app.goo.gl/rUR6NmgfzyCERjKVA",
+    "image": "images/2019/photos-app-goo-gl-rUR6NmgfzyCERjKVA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/0vAXbEScWDPSE8dxX2N-wFGTBzarnESHe_2YA1XEA2EeKPx1QTmBNmYRb0Z_Lt4CeXDFr2p2Foc1gEdJJPOUYuc4jxIFiLK5ivrN8Aa_Ti_cIv4ds0U6nqQPylZktqgqSBuiQ-ED5Jk=w600-h315-p-k"
   },
   {
-    "date": "23.01.2019",
+    "date": "2019-01-23",
     "name": "Col la Tourne-Mt Racine-Haut Geneveys",
-    "photographe": "Silvio Guindani",
-    "url": "https://photos.app.goo.gl/3fdbh6gPHnoR8GjC6"
+    "photographer": "Silvio Guindani",
+    "url": "https://photos.app.goo.gl/3fdbh6gPHnoR8GjC6",
+    "image": "images/2019/photos-app-goo-gl-3fdbh6gPHnoR8GjC6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/2Ok9OIxwmrmCGT1eEglZARfGKcumQIHWST7kRsXe6m79gb0fR_2trJNNLL7tGSsWhAcjOmtFJN-M14rtcOMhk9YqJzONabcUmvipgYjNn2g8uqxyh2bljPL9EWV6kMcCEdeU-yj-aI8=w600-h315-p-k"
   },
   {
-    "date": "16.01.2019",
+    "date": "2019-01-16",
     "name": "Les Monts Chevreuils ski-rando",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/xR3Es8ruBg4b8tfs6"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/xR3Es8ruBg4b8tfs6",
+    "image": "images/2019/photos-app-goo-gl-xR3Es8ruBg4b8tfs6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/fdP_ppxndfpMl53nOj8_eIZtX3gN0nYYpyi09UIziAtJesjo1csYyitCC5Zcv6_ibnXDeSG48ZSCAxczU0qbd6guGH_z5OLjiBy5Ugju4YtZRk0L0Y-3ptKVnMjoJgOpbqJRpGuFAUQ=w600-h315-p-k"
   },
   {
-    "date": "16.01.2019",
+    "date": "2019-01-16",
     "name": "Les Monts Chevreuils à raquettes",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/a4uUtxBKUuF3hWXr7"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/a4uUtxBKUuF3hWXr7",
+    "image": "images/2019/photos-app-goo-gl-a4uUtxBKUuF3hWXr7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/iCYmijzZ1R5du8IODoud6jFlknBxyFAPAAP70J7sMAIRA_6M3yWGVsr7qr8N8LlgrkXfo02q6jmvwekg7Re9ay98iWGufughddbspXpNuM6w-Na4rl7X2rbnHFgEJELzeSN_45iYWEY=w600-h315-p-k"
   },
   {
-    "date": "16.01.2019",
+    "date": "2019-01-16",
     "name": "Les Monts Chevreuils à raquettes",
-    "photographe": null,
-    "url": "https://photos.app.goo.gl/sgCYSpPveUs4uDpFA"
+    "photographer": null,
+    "url": "https://photos.app.goo.gl/sgCYSpPveUs4uDpFA",
+    "image": "images/2019/photos-app-goo-gl-sgCYSpPveUs4uDpFA.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/HWjOBK105kqd6GjH4lylZYJsmF4lXXYTbgDOhFHSmFnSAQ1_d3HpNTN9rRxBTMUsr7sJYb4gl_AVQfpLDsK09C1LCHV8hTYYVa6JXUKR9cNEjuvABHkB5iN8K_9BvSXhHRpbGYwgORc=w600-h315-p-k"
   },
   {
-    "date": "09.01.2019",
+    "date": "2019-01-09",
     "name": "Creux du Vent",
-    "photographe": "Marie-Louise Bernet",
-    "url": "https://photos.app.goo.gl/EFECjVuykgZhxi2i6"
+    "photographer": "Marie-Louise Bernet",
+    "url": "https://photos.app.goo.gl/EFECjVuykgZhxi2i6",
+    "image": "images/2019/photos-app-goo-gl-EFECjVuykgZhxi2i6.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/aeyKfFiimW0EnbWdd21sgjLxJMrwfUspPQbSVplD2VDPi4tvxb7RpOKWTvvuBP8ZBhNGTW8_gAH4WpudYS7AQSyCLE7yGcVn74Gr47E_Emb82-R3HLoi1eTnK6xT6NuEPUqVf0SEWPE=w600-h315-p-k"
   },
   {
-    "date": "09.01.2019",
+    "date": "2019-01-09",
     "name": "Creux du Vent",
-    "photographe": "Fred Lang",
-    "url": "https://photos.app.goo.gl/5eWacB3DSy4wvxQo8"
+    "photographer": "Fred Lang",
+    "url": "https://photos.app.goo.gl/5eWacB3DSy4wvxQo8",
+    "image": "images/2019/photos-app-goo-gl-5eWacB3DSy4wvxQo8.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/BZX7fGBTz3ZnKydGJS4Fs0VDY4LJzXgRdYyupdR3dt5iVm-2Z2yJOr1f3WoE9M3rK1QDZzs70hFXUIKv1wXIV4uEZft-c6lHi_4DzZUF0HzsQBAD2iy6x7LOW21u0WjUeXViuMEzJNg=w600-h315-p-k"
   }
 ]
