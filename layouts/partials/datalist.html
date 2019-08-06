@@ -7,8 +7,8 @@
       {{if .image}}
         {{ $resource := resources.Get .image }}
         {{ if $resource }}
-          {{ $image1 := $resource.Fit "300x200" }}
-          {{ $image2 := $resource.Fit "100x66" }}
+          {{ $image1 := $resource.Fill "300x200" }}
+          {{ $image2 := $resource.Fill "100x66" }}
           <div class="card-image">
             <figure class="image is-3by2">
               <img src="{{ $image1.Permalink }}" alt="">
