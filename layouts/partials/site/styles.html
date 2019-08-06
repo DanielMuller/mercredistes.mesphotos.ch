@@ -1,0 +1,5 @@
+{{ $app := resources.Get "sass/app.scss" | toCSS }}
+{{ $bulma := resources.Get "sass/bulma.sass" | toCSS }}
+{{ $css := slice $app $bulma | resources.Concat "css/app.css" | postCSS (dict "config" "postcss.config.js") | minify | fingerprint }}
+
+<link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}" />

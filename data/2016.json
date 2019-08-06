@@ -1,0 +1,656 @@
+[
+  {
+    "date": "06.01.2016",
+    "name": "Dent de Valerette",
+    "photographe": null,
+    "url": "https://goo.gl/photos/MWeoizxGuS3b8y2L6"
+  },
+  {
+    "date": "06.01.2016",
+    "name": "Granges-Lens-St. Léonard",
+    "photographe": null,
+    "url": "https://goo.gl/photos/SEELsEDaYY5KC9xP9"
+  },
+  {
+    "date": "13.01.2016",
+    "name": "Grotte à Chenuz",
+    "photographe": null,
+    "url": "https://goo.gl/photos/WEhDuK6uVVRXFDc2A"
+  },
+  {
+    "date": "13.01.2016",
+    "name": "Chasseron",
+    "photographe": null,
+    "url": "https://goo.gl/photos/55kA5TskgLrRYykAA"
+  },
+  {
+    "date": "20.01.2016",
+    "name": "Jaunpass - Hundsrügg",
+    "photographe": null,
+    "url": "https://goo.gl/photos/okxgRyg3ezVphnU58"
+  },
+  {
+    "date": "20.01.2016",
+    "name": "Abländschen-Hundsrügg",
+    "photographe": null,
+    "url": "https://goo.gl/photos/mEKGsYQBJDMUbpXv6"
+  },
+  {
+    "date": "23.01.2016",
+    "name": "Bever",
+    "photographe": null,
+    "url": "https://goo.gl/photos/5aiy2qUrUMXvgUkEA"
+  },
+  {
+    "date": "27.01.2016",
+    "name": "Tremetta",
+    "photographe": null,
+    "url": "https://goo.gl/photos/QRyCaBp95seqHtFr8"
+  },
+  {
+    "date": "03.02.2016",
+    "name": "Les Moulins - Sonlomont - Monts Chevreuils",
+    "photographe": null,
+    "url": "https://goo.gl/photos/m1K4MBWy1UMkHTTm6"
+  },
+  {
+    "date": "03.02.2016",
+    "name": "La Lécherette - Les Monts Chevreuils",
+    "photographe": null,
+    "url": "https://goo.gl/photos/vqGvJ5EgckNXhNHQ8"
+  },
+  {
+    "date": "10.02.2016",
+    "name": "Chalet du Soldat à ski",
+    "photographe": null,
+    "url": "https://goo.gl/photos/qzeySRfdksyb94Ge6"
+  },
+  {
+    "date": "10.02.2016",
+    "name": "Chalet du Soldat",
+    "photographe": null,
+    "url": "https://goo.gl/photos/gAaZD922m6UMtvuX9"
+  },
+  {
+    "date": "17.02.2016",
+    "name": "Lauenen - Tube",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ybLDNaBWBTXe17hGA"
+  },
+  {
+    "date": "17.02.2016",
+    "name": "Tête à Josué",
+    "photographe": null,
+    "url": "https://goo.gl/photos/MahEHexzqTRGQEEP8"
+  },
+  {
+    "date": "24.02.2016",
+    "name": "La Berra en traversée",
+    "photographe": null,
+    "url": "https://goo.gl/photos/3rgtpTdZn3yeRUkx7"
+  },
+  {
+    "date": "27.02.2016",
+    "name": "Allières - Pra du Pont - Pierra Devant",
+    "photographe": null,
+    "url": "https://goo.gl/photos/4emphfNhwvWc13yw7"
+  },
+  {
+    "date": "28.02.2016",
+    "name": "Lauenen - Tube Ski rando (en remplacement de Les Moulins - Monts Chevreuils)",
+    "photographe": null,
+    "url": "https://goo.gl/photos/xKtwHAhKQtae9US88"
+  },
+  {
+    "date": "02.03.2016",
+    "name": "Cabane de Cunay CAS",
+    "photographe": null,
+    "url": "https://goo.gl/photos/DM3Y67srWTnpnRMv7"
+  },
+  {
+    "date": "09.03.2016",
+    "name": "Walighurli",
+    "photographe": null,
+    "url": "https://goo.gl/photos/JTfHc4fLfA4X37sL7"
+  },
+  {
+    "date": "09.03.2016",
+    "name": "Leysin - Solacyre",
+    "photographe": null,
+    "url": "https://goo.gl/photos/8YBkBH8STjjkJeM3A"
+  },
+  {
+    "date": "16.03.2016",
+    "name": "La Serine et le sentier des Toblerones",
+    "photographe": null,
+    "url": "https://goo.gl/photos/vbmZLPeduF9sv9YE8"
+  },
+  {
+    "date": "16.03.2016",
+    "name": "Marchairuz - Crêt de la Neuve",
+    "photographe": null,
+    "url": "https://goo.gl/photos/Yrz7ddYna7qY7wba8"
+  },
+  {
+    "date": "23.03.2016",
+    "name": "Saanenmöser - Chübelialp",
+    "photographe": null,
+    "url": "https://goo.gl/photos/vE2u9ENVU9ouuk8k6"
+  },
+  {
+    "date": "23.03.2016",
+    "name": "Saanenmöser - Chübelialp",
+    "photographe": "Willy Muller",
+    "url": "https://goo.gl/photos/AobkWjecE1zSWkj46"
+  },
+  {
+    "date": "30.03.2016",
+    "name": "Le Molard",
+    "photographe": null,
+    "url": "https://goo.gl/photos/EL4FBQXQQDaVTMyd8"
+  },
+  {
+    "date": "30.03.2016",
+    "name": "Le Molard en traversée",
+    "photographe": "Willy Muller",
+    "url": "https://goo.gl/photos/MhYLn7GjkGQhy5peA"
+  },
+  {
+    "date": "06.04.2016",
+    "name": "Pointe de Vuasson (6-7.4.16)",
+    "photographe": null,
+    "url": "https://goo.gl/photos/fa7Xbc5CHvuuWBB86"
+  },
+  {
+    "date": "06.04.2016",
+    "name": "Pointe de Vouasson (6-7 avril 2016) Gilbert Nicod",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ZAw3PD1j2LREyG3r6"
+  },
+  {
+    "date": "06.04.2016",
+    "name": "Soleure – Weissenstein",
+    "photographe": null,
+    "url": "https://goo.gl/photos/cg3CTrh5Mzu7E41k8"
+  },
+  {
+    "date": "13.04.2016",
+    "name": "Abbaye de Hauterive",
+    "photographe": null,
+    "url": "https://goo.gl/photos/v11jLwPDPNMDg2u67"
+  },
+  {
+    "date": "20.04.2016",
+    "name": "Grotte aux fées et Saut de l'eau",
+    "photographe": null,
+    "url": "https://goo.gl/photos/9zmGhCg82xsPVog56"
+  },
+  {
+    "date": "27.04.2016",
+    "name": "Carrières de marbre au-dessus de Saillon",
+    "photographe": "Silvio Guindani",
+    "url": "https://goo.gl/photos/riMBaZWZbX1ETAHG6"
+  },
+  {
+    "date": "27.04.2016",
+    "name": "Carrières de marbre au-dessus de Saillon",
+    "photographe": "Willy Muller",
+    "url": "https://goo.gl/photos/UvmiXuSNW22JjwPv7"
+  },
+  {
+    "date": "04.05.2016",
+    "name": "Sortie à vélo",
+    "photographe": null,
+    "url": "https://goo.gl/photos/gWBG9gajZTqTz3678"
+  },
+  {
+    "date": "04.05.2016",
+    "name": "Aiguilles de Baulmes",
+    "photographe": null,
+    "url": "https://goo.gl/photos/oTkrrByXrWAC8ZMp8"
+  },
+  {
+    "date": "11.05.2016",
+    "name": "Saillon - Passerelle à Farinet - Ovronnaz",
+    "photographe": null,
+    "url": "https://goo.gl/photos/MJkgn1ZUjeXDLuDh8"
+  },
+  {
+    "date": "18.05.2016",
+    "name": "Le Cubly par les Gorges du Chauderon",
+    "photographe": "P. Juillerat",
+    "url": "https://goo.gl/photos/RU1Bbri9V34o2X7h7"
+  },
+  {
+    "date": "18.05.2016",
+    "name": "Roche Champion et Roche Bernard",
+    "photographe": null,
+    "url": "https://goo.gl/photos/6iD54zGGzbtHnM487"
+  },
+  {
+    "date": "18.05.2016",
+    "name": "Le Cubly par les Gorges du Chauderon",
+    "photographe": "G.Nicod",
+    "url": "https://goo.gl/photos/L8j696C9C59b28vX7"
+  },
+  {
+    "date": "25.05.2016",
+    "name": "Roche - Malatraix",
+    "photographe": null,
+    "url": "https://goo.gl/photos/Zk4HwEGkWYFuK6p66"
+  },
+  {
+    "date": "25.05.2016",
+    "name": "Col des Mosses - Oudiou - Les Diablerets",
+    "photographe": null,
+    "url": "https://goo.gl/photos/YcvUvynYKbzxhV3x9"
+  },
+  {
+    "date": "01.06.2016",
+    "name": "Charmey-Vounetz",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ob5K6deFx7ww9a2H6"
+  },
+  {
+    "date": "01.06.2016",
+    "name": "St.-Maurice - Vérossaz - Mex - Epinassey",
+    "photographe": null,
+    "url": "https://goo.gl/photos/5qytTCg778eJ97dv8"
+  },
+  {
+    "date": "08.06.2016",
+    "name": "Les Pontis - Chandolin",
+    "photographe": null,
+    "url": "https://goo.gl/photos/sMxBpARVJtdwp5w26"
+  },
+  {
+    "date": "08.06.2016",
+    "name": "Riddes-Iserable",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ajnoaJ2PghxZSjEu8"
+  },
+  {
+    "date": "15.06.2016",
+    "name": "La Scia-Fontaine Noir-Lécherette",
+    "photographe": null,
+    "url": "https://goo.gl/photos/XJdAXgyMnkvEu8of7"
+  },
+  {
+    "date": "15.06.2016",
+    "name": "Le Molard",
+    "photographe": null,
+    "url": "https://goo.gl/photos/BFQ3vFKwHTpnqrK77"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "Haute Corde",
+    "photographe": null,
+    "url": "https://goo.gl/photos/UuouimSt5NbZix6p9"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "Pas de Cheville",
+    "photographe": null,
+    "url": "https://goo.gl/photos/xdeNvypmcdGuCWr88"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "Solalex - Anzeinde",
+    "photographe": null,
+    "url": "https://goo.gl/photos/6yas1ot7g9J6mYu16"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "Les 20 ans des mercredistes à Anzeinde",
+    "photographe": null,
+    "url": "https://goo.gl/photos/hY1WM8mcxknfquAV8"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "Le Tour du Lion d'Argentine",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ErzohiYkaCZfMNdx6"
+  },
+  {
+    "date": "22.06.2016",
+    "name": "La Haute Corde",
+    "photographe": null,
+    "url": "https://goo.gl/photos/WCFk3wH5Lock3aKm9"
+  },
+  {
+    "date": "29.06.2016",
+    "name": "Tour de la Palette d'Isenau",
+    "photographe": null,
+    "url": "https://goo.gl/photos/nYoxf6wrM5NjWjmg9"
+  },
+  {
+    "date": "29.06.2016",
+    "name": "Chalavornaire",
+    "photographe": null,
+    "url": "https://goo.gl/photos/rxKrh9zan8aCRjqd7"
+  },
+  {
+    "date": "29.06.2016",
+    "name": "Chalavornaire",
+    "photographe": "Pierre Juillerat",
+    "url": "https://goo.gl/photos/QXJ2HDCp8pQVprBD9"
+  },
+  {
+    "date": "29.06.2016",
+    "name": "Tour de la Palette d'Isenau",
+    "photographe": "Willy Muller",
+    "url": "https://goo.gl/photos/ppZvpPafgr4fKmsZ7"
+  },
+  {
+    "date": "06.07.2016",
+    "name": "Cabane de la Tza",
+    "photographe": null,
+    "url": "https://goo.gl/photos/FHMij3m15DbkUE3Y9"
+  },
+  {
+    "date": "06.07.2016",
+    "name": "Pointe de Cray",
+    "photographe": null,
+    "url": "https://goo.gl/photos/okrZESp5sg5zfwGN6"
+  },
+  {
+    "date": "13.07.2016",
+    "name": "Cabane de Louvie",
+    "photographe": null,
+    "url": "https://goo.gl/photos/hMptCLbP9bKuGKgx5"
+  },
+  {
+    "date": "16.07.2016",
+    "name": "Inauguration de la nouvelle cabane Rambert",
+    "photographe": null,
+    "url": "https://goo.gl/photos/PzAwiKy7theuVrg87"
+  },
+  {
+    "date": "20.07.2016",
+    "name": "Petit Bonvin-Bisse du Tsittoret",
+    "photographe": null,
+    "url": "https://goo.gl/photos/PLmSH73YxCM85QSJ8"
+  },
+  {
+    "date": "20.07.2016",
+    "name": "Mont Bonvin",
+    "photographe": null,
+    "url": "https://goo.gl/photos/YdP6WXxgxXu5zsjj7"
+  },
+  {
+    "date": "20.07.2016",
+    "name": "Combe de Grède",
+    "photographe": null,
+    "url": "https://goo.gl/photos/h9PeVp249n1p8RA58"
+  },
+  {
+    "date": "23.07.2016",
+    "name": "Gibel au dessus de Hasliberg",
+    "photographe": null,
+    "url": "https://goo.gl/photos/EqUXNfo99qiwDeP8A"
+  },
+  {
+    "date": "24.07.2016",
+    "name": "Sidelhorn",
+    "photographe": null,
+    "url": "https://goo.gl/photos/LAsGfCPT9RP6Az9S6"
+  },
+  {
+    "date": "25.07.2016",
+    "name": "Pont du Trift",
+    "photographe": null,
+    "url": "https://goo.gl/photos/zEbxxPQeRKU6qqxJ7"
+  },
+  {
+    "date": "26.07.2016",
+    "name": "Région Rosenlaui",
+    "photographe": null,
+    "url": "https://goo.gl/photos/iPL4xxgjH3PRAzi9A"
+  },
+  {
+    "date": "27.07.2016",
+    "name": "Gelmersee et Gelmerhütte",
+    "photographe": null,
+    "url": "https://goo.gl/photos/TM8Q2fi786Uwkqez7"
+  },
+  {
+    "date": "28.07.2016",
+    "name": "Engleralp",
+    "photographe": null,
+    "url": "https://goo.gl/photos/B8U9xXEDDecQ6m8Y8"
+  },
+  {
+    "date": "29.07.2016",
+    "name": "Wilerhorn",
+    "photographe": null,
+    "url": "https://goo.gl/photos/9bUvwtGArdi3B8icA"
+  },
+  {
+    "date": "02.08.2016",
+    "name": "Cabane Pairolo - Bré",
+    "photographe": null,
+    "url": "https://goo.gl/photos/sdEamUY1J147dJfL6"
+  },
+  {
+    "date": "02.08.2016",
+    "name": "Bogno - Bré 2-5.08.2016",
+    "photographe": "Claire Aeschimann",
+    "url": "https://goo.gl/photos/4DEdSXdkqTLzDpaVA"
+  },
+  {
+    "date": "02.08.2016",
+    "name": "Bogno - cabane San Lucio",
+    "photographe": null,
+    "url": "https://goo.gl/photos/P4Pjf2AsVvjxGcXT9"
+  },
+  {
+    "date": "03.08.2016",
+    "name": "Bisse Vieux et bisse du Milieu",
+    "photographe": null,
+    "url": "https://goo.gl/photos/hBkmcf9h7HJbBUtz5"
+  },
+  {
+    "date": "03.08.2016",
+    "name": "Pierre Avoi",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ZD1iR1Mx3yD5UhRaA"
+  },
+  {
+    "date": "03.08.2016",
+    "name": "Gazzirola",
+    "photographe": null,
+    "url": "https://goo.gl/photos/sudM3W9zXwPRuR826"
+  },
+  {
+    "date": "04.08.2016",
+    "name": "Cabane San Lucio - cabane Pairolo",
+    "photographe": null,
+    "url": "https://goo.gl/photos/suuzaHsu3DiZ7pvk8"
+  },
+  {
+    "date": "10.08.2016",
+    "name": "Selle des Morteys",
+    "photographe": null,
+    "url": "https://goo.gl/photos/JChCUMR33TBFdQFG8"
+  },
+  {
+    "date": "17.08.2016",
+    "name": "Chalets de Bise-Lac Darbon",
+    "photographe": null,
+    "url": "https://goo.gl/photos/vjyXdc6SUgDZp75C9"
+  },
+  {
+    "date": "21.08.2016",
+    "name": "Fionnay-Cabane FXB-Col des Otannes-Fionnay (31.8-1.9.2016)",
+    "photographe": null,
+    "url": "https://goo.gl/photos/S6mVmS1Zq5ErYGPFA"
+  },
+  {
+    "date": "24.08.2016",
+    "name": "Grande Dixence Sentier des Bouquetins",
+    "photographe": null,
+    "url": "https://goo.gl/photos/AhRv68zfYH7rKsY87"
+  },
+  {
+    "date": "24.08.2016",
+    "name": "Mont Blanc grand angle 24-25.08.16",
+    "photographe": null,
+    "url": "https://goo.gl/photos/NUakDTswrcooSPXD7"
+  },
+  {
+    "date": "24.08.2016",
+    "name": "Sentier du Grand Balcon, région de Chamonix",
+    "photographe": null,
+    "url": "https://goo.gl/photos/TLMpr1WNWXQgcEx69"
+  },
+  {
+    "date": "25.08.2016",
+    "name": "Massif de Mont Blanc grand angle",
+    "photographe": null,
+    "url": "https://goo.gl/photos/yi45MavvR9JaLvTdA"
+  },
+  {
+    "date": "31.08.2016",
+    "name": "Le Buet - Chalets de Loriaz",
+    "photographe": null,
+    "url": "https://goo.gl/photos/vtY9bRnRXiZNQRMo7"
+  },
+  {
+    "date": "07.09.2016",
+    "name": "Autour de la Pointe de Drône",
+    "photographe": null,
+    "url": "https://goo.gl/photos/T473ToxMbfD6bv17A"
+  },
+  {
+    "date": "07.09.2016",
+    "name": "Hauteurs d'Anzère",
+    "photographe": null,
+    "url": "https://goo.gl/photos/JDQ18iz7z3X8nkwe6"
+  },
+  {
+    "date": "14.09.2016",
+    "name": "Col de la Breya",
+    "photographe": null,
+    "url": "https://goo.gl/photos/bwr8JUgjL5KxLaJYA"
+  },
+  {
+    "date": "14.09.2016",
+    "name": "L'etivaz et ses fromages",
+    "photographe": null,
+    "url": "https://goo.gl/photos/9FAyFnyKLm22kG9n7"
+  },
+  {
+    "date": "16.09.2016",
+    "name": "Ovronnaz-Rambert-Loutze",
+    "photographe": null,
+    "url": "https://goo.gl/photos/ABBjCqv77mbKw8sf9"
+  },
+  {
+    "date": "21.09.2016",
+    "name": "Autour du Molard et du Folly",
+    "photographe": null,
+    "url": "https://goo.gl/photos/4ARUP8pnzm3bgzus8"
+  },
+  {
+    "date": "28.09.2016",
+    "name": "La Lioson",
+    "photographe": null,
+    "url": "https://goo.gl/photos/wSc9Esv1idrfgEra7"
+  },
+  {
+    "date": "28.09.2016",
+    "name": "Villars - Grand Chamossaire - Lac des Chavonnes",
+    "photographe": null,
+    "url": "https://goo.gl/photos/E3v57HvyQ7WV4qoQ9"
+  },
+  {
+    "date": "05.10.2016",
+    "name": "Lac Noir",
+    "photographe": "Willy Muller",
+    "url": "https://goo.gl/photos/d4MkosYVyqFHSpLV9"
+  },
+  {
+    "date": "05.10.2016",
+    "name": "Lac Noir",
+    "photographe": "Margit Liardon",
+    "url": "https://goo.gl/photos/D4WxRC9L9XLkx12P7"
+  },
+  {
+    "date": "12.10.2016",
+    "name": "Les trois rivières autour de Moudon",
+    "photographe": null,
+    "url": "https://goo.gl/photos/83S9vW8PFgVHVeGD9"
+  },
+  {
+    "date": "19.10.2016",
+    "name": "Bruson - Tête de la Payanne",
+    "photographe": null,
+    "url": "https://goo.gl/photos/yBzserFqXJjQoVPi9"
+  },
+  {
+    "date": "26.10.2016",
+    "name": "Binii - Drahin - Mayens de la Dzour",
+    "photographe": null,
+    "url": "https://goo.gl/photos/AG7kkqrnnyVj5nS4A"
+  },
+  {
+    "date": "02.11.2016",
+    "name": "Les Avants - Les Pléiades",
+    "photographe": null,
+    "url": "https://goo.gl/photos/Y1HwkaNn8wjbrjyE7"
+  },
+  {
+    "date": "09.11.2016",
+    "name": "Cully - Tour de Gourze - Puidoux-Chexbres",
+    "photographe": null,
+    "url": "https://goo.gl/photos/maYeEtssb6BcmPSt5"
+  },
+  {
+    "date": "16.11.2016",
+    "name": "Le Suchet",
+    "photographe": "Lilly",
+    "url": "https://goo.gl/photos/5S4UgJL2g4QMUiLq5"
+  },
+  {
+    "date": "16.11.2016",
+    "name": "Le Suchet",
+    "photographe": "Sandra",
+    "url": "https://goo.gl/photos/usrtMCtpRg7CALF89"
+  },
+  {
+    "date": "23.11.2016",
+    "name": "Gurten",
+    "photographe": null,
+    "url": "https://goo.gl/photos/AB9Qmq12crt2mHFT8"
+  },
+  {
+    "date": "23.11.2016",
+    "name": "Sécurité et avalanches (partie théorique)",
+    "photographe": null,
+    "url": "https://goo.gl/photos/mNZWBe11rATfoyNP8"
+  },
+  {
+    "date": "30.11.2016",
+    "name": "Mézière - Les Cullayes (Fondue)",
+    "photographe": null,
+    "url": "https://goo.gl/photos/zYmC7RCSZhD7HFjE9"
+  },
+  {
+    "date": "7.12.2016",
+    "name": "Les Paccots",
+    "photographe": null,
+    "url": "https://goo.gl/photos/7D7q7Na2NuN2Uxq88"
+  },
+  {
+    "date": "14.12.2016",
+    "name": "Creu du Van",
+    "photographe": "Pierre Juillerat",
+    "url": "https://goo.gl/photos/TQXqYkzGga5jrxnVA"
+  },
+  {
+    "date": "14.12.2016",
+    "name": "Creu du Van",
+    "photographe": "Bertrand Scholder",
+    "url": "https://goo.gl/photos/HmL22PUHnemviLAZA"
+  }
+]

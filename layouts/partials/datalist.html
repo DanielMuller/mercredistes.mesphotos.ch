@@ -1,0 +1,16 @@
+<div class="tabs is-centered is-medium is-boxed is-toggle">
+  <ul>
+  {{ range sort (readDir "data") "Name" "desc"}}
+    {{ $linkYear := replace .Name ".json" "" }}
+    <li{{ if eq $linkYear $.year }} class="is-active"{{ end }}><a href="{{ $linkYear |absURL }}">{{ $linkYear }}</a></li>
+  {{ end }}
+  </ul>
+</div>
+
+<article>
+  <ul>
+  {{ range index $.context.Site.Data $.year }}
+    <li><a href="{{ .url }}" target="_blank">{{ .date }} - {{ .name }} ({{ .photographe }})</a></li>
+  {{ end }}
+  </ul>
+</article>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ .Scratch.Set "thisYear" "" }}
+{{ range sort (readDir "data") "Name" "desc" | first 1 }}
+  {{ $thisYear := replace .Name ".json" "" }}
+  {{ $.Scratch.Set "thisYear" $thisYear }}
+{{ end }}
+
+{{ partial "datalist" (dict "context" . "year" (.Scratch.Get "thisYear")) }}
+{{ end }}

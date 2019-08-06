@@ -1,0 +1,35 @@
+baseURL = ""
+languageCode = "fr-ch"
+DefaultContentLanguage = "fr"
+title = "Mercredistes"
+
+enableRobotsTXT = true
+disableAliases = true
+disableKinds = ["sitemap","RSS","taxonomy","taxonomyTerm","section"]
+# add redirects/headers
+[outputs]
+home = ["HTML", "REDIRECTS", "HEADERS"]
+
+# remove .{ext} from text/netlify
+[mediaTypes."text/netlify"]
+suffixes = [""]
+delimiter = ""
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
+[params]
+  description = "Liste des albums photos"
+  theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
+  disallow_search_engines = true
