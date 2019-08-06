@@ -1,6 +1,6 @@
 <article>
   <div class="row columns is-multiline">
-  {{ range index .Site.Data .Params.Year }}
+  {{ range sort (index .Site.Data .Params.Year) "date" "desc" }}
     <div class="column is-2">
       <a href="{{.url}}" target="_blank">
       <div class="card">
