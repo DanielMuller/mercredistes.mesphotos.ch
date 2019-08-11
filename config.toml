@@ -6,6 +6,7 @@ title = "Mercredistes"
 enableRobotsTXT = true
 disableAliases = true
 disableKinds = ["sitemap","RSS","taxonomy","taxonomyTerm","section"]
+enableGitInfo = true
 # add redirects/headers
 [outputs]
 home = ["HTML", "REDIRECTS", "HEADERS"]

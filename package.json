@@ -2,8 +2,8 @@
   "name": "mercredistes-liste-photos",
   "private": true,
   "scripts": {
-    "start": "hugo server -w",
-    "build": "hugo --minify",
+    "start": "hugo server -w --enableGitInfo",
+    "build": "hugo --minify --enableGitInfo",
     "build:functions": "netlify-lambda build assets/lambda",
     "server": "hugo server"
   },

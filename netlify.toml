@@ -1,5 +1,5 @@
 [build]
-    command = "hugo -b $URL --minify"
+    command = "hugo -b $URL --minify --enableGitInfo"
     publish = "public"
     functions = "functions"
 
@@ -10,6 +10,7 @@
 [context.production.environment]
     HUGO_ENV = "production"
     NODE_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
     command = "hugo -b $DEPLOY_PRIME_URL"
