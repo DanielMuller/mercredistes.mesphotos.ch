@@ -5,6 +5,7 @@
 
 [build.environment]
     HUGO_VERSION = "0.56.3"
+    TZ = "Europe/Zurich"
 
 [context.production.environment]
     HUGO_ENV = "production"
