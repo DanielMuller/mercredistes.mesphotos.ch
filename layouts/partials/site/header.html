@@ -22,7 +22,7 @@
         <div class="navbar-end">
           {{ range sort (readDir "data") "Name" "desc"}}
             {{ $linkYear := replace .Name ".json" "" }}
-            <a href="{{ $linkYear |absURL }}" class="navbar-item{{ if eq $linkYear $.Params.Year }} is-active{{ end }}">{{ $linkYear }}</a>
+            <a href="{{ printf "%s/" $linkYear | relURL }}" class="navbar-item{{ if eq $linkYear $.Params.year }} is-active{{ end }}">{{ $linkYear }}</a>
           {{ end }}
         </div>
       </div>      <!-- <div class="navbar-item">
