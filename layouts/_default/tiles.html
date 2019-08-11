@@ -14,7 +14,11 @@
       </div>
     </div>
     <div class="column is-4">
+      {{ $dataFile := printf "data/%s.json" .Params.Year }}
+      {{ $stat := os.Stat $dataFile }}
+      {{ $lastmod := $stat.ModTime | time }}
       <div class="has-text-right has-text-left-mobile has-text-grey is-italic has-text-weight-light is-size-7">
+        Dernière modification: {{ dateFormat "02.01.2006 15:04:05" $lastmod.Local }}
       </div>
     </div>
 </footer>
