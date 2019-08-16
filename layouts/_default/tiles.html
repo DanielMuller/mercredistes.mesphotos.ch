@@ -15,9 +15,11 @@
     </div>
     <div class="column is-4">
       <div class="has-text-right has-text-left-mobile has-text-grey is-italic has-text-weight-light is-size-7">
-        {{ $githubURL := printf "https://api.github.com/repos/DanielMuller/mercredistes.mesphotos.ch/commits?path=data/%s.json&page=1&per_page=1" .Params.year}}
+        {{ $githubURL := printf "https://api.github.com/repos/DanielMuller/mercredistes.mesphotos.ch/commits?path=data/%s.json&page=1&per_page=5" .Params.year}}
         {{ $data := getJSON $githubURL }}
-        {{ range first 1 $data }}Dernière mise à jour: {{ dateFormat "02.01.2006 15:04:05 MST" (.commit.committer.date | time).Local }} ({{.commit.committer.date}}){{ end }}
+        {{ range first 1 $data }}Dernière mise à jour: {{ dateFormat "02.01.2006 15:04:05 MST" (.commit.committer.date | time).Local }}{{ end }}
+        <br>{{ $githubURL }}
+        <br>{{ $data }}
       </div>
     </div>
 </div>
