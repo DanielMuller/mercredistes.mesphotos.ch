@@ -35,3 +35,7 @@ notAlternative = true
   description = "Liste des albums photos"
   theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
   disallow_search_engines = true
+
+[caches]
+  [caches.getjson]
+    maxAge = "1h"
