@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "date": "2021-03-03",
+    "name": "Autour de Romainmôtier",
+    "url": "https://photos.app.goo.gl/Qfj7ezyYCFgTNBUe7",
+    "photographer": "William Baehler",
+    "image": "images/2021/photos-app-goo-gl-Qfj7ezyYCFgTNBUe7.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/BZgdXzWKePR3Yuy51QUVrb-i6hKLGOUlyLHqh6NWR9-HUv9ZroZJXxOho6yDJJ1fFQD4EQdoR0XyFQ_7fLhVV464IppPdWOsUomB7Z_1PjlOGKKaf0pubtX1-Lud0EP10yeKetEvzA=w600-h315-p-k"
+  },
+  {
+    "date": "2021-03-03",
+    "name": "La Berra",
+    "url": "https://photos.app.goo.gl/UbAvTc5DmReQgPz36",
+    "photographer": "Jean-François Milliet",
+    "image": "images/2021/photos-app-goo-gl-UbAvTc5DmReQgPz36.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/4WH49SRXWF7wSwUyPFj7uRXBiW1C-qkm0YQil_4uB8XxhPGCUFXxqPN3haPWtohpQlXm_MmgIEpMM_Amc-WEkxGJpzq8EjurGc_10gwmAM0A6y47eJiWKwVSaFhSZPIPhCt6pkWv2Uo=w600-h315-p-k"
+  },
+  {
+    "date": "2021-03-03",
+    "name": "La Berra",
+    "url": "https://photos.app.goo.gl/WPmcHp4c2Bt5wibJ9",
+    "photographer": "William Baehler",
+    "image": "images/2021/photos-app-goo-gl-WPmcHp4c2Bt5wibJ9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/yG21zqBqJVL53VSgbcle7C_gJTG2lEOHDiqYzYyHElCMvlD-KV6m1QYEP2bCtKYStAtwskr2fLmVRmJ4kjqp_kRItQCfGd_bopvnpZZBPcFgrn7_Q5vvAZgR0CIsT3nFn4lldbMednY=w600-h315-p-k"
+  },
+  {
+    "date": "2021-03-03",
+    "name": "La Berra",
+    "url": "https://photos.app.goo.gl/efLsEFGAm7ji4KQ1A",
+    "photographer": "Silvio Guindani",
+    "image": "images/2021/photos-app-goo-gl-efLsEFGAm7ji4KQ1A.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/e7JvWOnlvEIvy84BnIzfZ5tdHN8egqYMvLW_KLfVAESQkZmJhL5AHvXOGijMBLDHVmzJm2e4K6bgHGvAqu1E2XvRm-d7KmAbtxCNFhxF5rwERfqS_NgvMBpofelPkBGrlQ-6egiaj4Q=w600-h315-p-k"
+  }
+]
