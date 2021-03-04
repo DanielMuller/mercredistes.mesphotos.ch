@@ -10,6 +10,7 @@
   "dependencies": {
     "autoprefixer": "^9.6.4",
     "netlify-lambda": "^2.0.3",
+    "postcss": "^8.2.7",
     "postcss-cli": "^8.3.1"
   }
 }
