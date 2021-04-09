@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name=“robots” content=“noindex” />
+    <meta name="pinterest" content="nopin" />
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            font-family: Tahoma,Verdana,Segoe,sans-serif;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: lightgray;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .error-wrapper{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 2% 3% 4%;
+            border-radius: 5px;
+            background: white;
+            box-shadow: 3px 3px 10px 0px rgba(168,168,168,1);
+        }
+        h1{
+            font-size: 3.5em;
+            color: #33294c;
+        }
+        h2{
+            font-size: 2em;
+        }
+        p{
+            font-size: 1.5em;
+            margin: 5px;
+        }
+        a{
+            color: #e5761c;
+        }
+        img{
+            width: 30%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="error-wrapper">
+        <img src="/images/hopla-logo-4.svg"/>
+        <h2>Hopla&nbsp;! On dirait bien qu'il n'y a rien ici...</h2>
+        <p>Si vous pensez qu'il devrait y avoir quelque chose ici, n'hésitez pas à <a href="mailto:hello@hopla.photo">nous contacter</a></p>
+        <p>À la place, vous pouvez <a href="https://www.hopla.photo/">aller voir notre site</a></p>
+    </div>
+
+</body>
+
+</html>
