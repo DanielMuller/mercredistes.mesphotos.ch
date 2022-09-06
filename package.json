@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.8",
-    "netlify-lambda": "^2.0.15",
     "postcss": "8.4.16",
     "postcss-cli": "10.0.0"
   }
