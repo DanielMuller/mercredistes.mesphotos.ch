@@ -1,41 +1,41 @@
+DefaultContentLanguage = "fr"
 baseURL = ""
 languageCode = "fr-ch"
-DefaultContentLanguage = "fr"
 title = "Mercredistes"
 
-enableRobotsTXT = true
 disableAliases = true
-disableKinds = ["sitemap","RSS","taxonomy","taxonomyTerm","section"]
+disableKinds = ["sitemap", "RSS", "taxonomy", "taxonomyTerm", "section"]
 enableGitInfo = true
-googleAnalytics = "UA-1341906-12"
+enableRobotsTXT = true
+googleAnalytics = "G-CJ1RRBDH90"
 # add redirects/headers
 [outputs]
 home = ["HTML", "REDIRECTS", "HEADERS"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]
-suffixes = [""]
 delimiter = ""
+suffixes = [""]
 
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]
-mediatype = "text/netlify"
 baseName = "_redirects"
 isPlainText = true
+mediatype = "text/netlify"
 notAlternative = true
 
 # add output format for netlify _headers
 [outputFormats.HEADERS]
-mediatype = "text/netlify"
 baseName = "_headers"
 isPlainText = true
+mediatype = "text/netlify"
 notAlternative = true
 
 [params]
-  description = "Liste des albums photos"
-  theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
-  disallow_search_engines = true
+description = "Liste des albums photos"
+disallow_search_engines = true
+theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
 
 [caches]
-  [caches.getjson]
-    maxAge = "1h"
+[caches.getjson]
+maxAge = "1h"
