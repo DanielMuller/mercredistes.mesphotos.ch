@@ -1,6 +1,8 @@
 <article>
   <div class="row columns is-multiline">
-  {{ range $albums := sort (index .Site.Data .Params.year) "date" "desc" }}
+  {{- $posts := (index .Site.Data .Params.year) -}}
+  {{- $postCount := len $posts -}}
+  {{ if gt $postCount 0 }}{{ range $albums := sort (index .Site.Data .Params.year) "date" "desc" }}
     <div class="column is-3-tablet is-one-fifth-desktop is-one-fifth-widescreen is-2-fullhd">
       <a href="{{.url}}" target="_blank">
       <div class="card is-hidden-mobile">
@@ -59,6 +61,16 @@
       </div>
       </a>
     </div>
-  {{end}}
+  {{end}}{{else}}
+  <div class="container" style="margin-top:2rem;margin-bottom:1rem">
+    <div class="message is-large has-text-centered">
+      <div class="message-body">
+        Désolé, nous n'avons aucune image à vous montrer.<br>
+        Soit aucune sortie n'a encore eu lieu cette année ou aucune photo n'a été prise pendant ces course.<br>
+        Revenez nous visiter dans quelques jours.
+      </div>
+    </div>
   </div>
+  {{end}}
+</div>
 </article>
