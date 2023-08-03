@@ -838,5 +838,45 @@
     "photographer": "Pierre Juillerat",
     "image": "images/2023/photos-app-goo-gl-6juS8h23SxMR9nxJ8.jpg",
     "srcImage": "https://lh3.googleusercontent.com/pw/AIL4fc_ZQwTEkSUeMZolyClzpYF80Z_GMshTR8yWb5EmwleIu7PeN-i5jsIfWBEF9NCeobYAdZwR0y0dKUmeTEmxe8FMF1Wbup7PDIfvxGzgr1DFc-v2Rw=w600-h315-p-k"
+  },
+  {
+    "date": "2023-06-01",
+    "name": "La Bra",
+    "url": "https://photos.app.goo.gl/YA7MCQFdVu6MT6ae9",
+    "photographer": "Sandra Ducommun",
+    "image": "images/2023/photos-app-goo-gl-YA7MCQFdVu6MT6ae9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/pw/AIL4fc_lvPbZbgqalqjBo-MUmF9uUMl_Hk8anVTSkJLghg_S25WLSkodLm_eg_WGQ7OHB934e5i7sLWLhfh8U5ctNzOOoTI5dRga1KaE7RvUH_y0akuFQA=w600-h315-p-k"
+  },
+  {
+    "date": "2023-07-17",
+    "name": "Corjon",
+    "url": "https://photos.app.goo.gl/h3aZytiG5Kop6tNq9",
+    "photographer": "Sandra Ducommun",
+    "image": "images/2023/photos-app-goo-gl-h3aZytiG5Kop6tNq9.jpg",
+    "srcImage": "https://lh3.googleusercontent.com/pw/AIL4fc_xKCkaZyRtRC3h1Yo5iAqujrIKWwVXEWD7gJFuQjR7yny1XDL5fzO7h_yMVWpg4IXckzYVwvZ5sMQd19kPWLzSFuCAyjswhpjuJqQFMCEBVo8UiA=w600-h315-p-k"
+  },
+  {
+    "date": "2023-08-01",
+    "name": "Prarayer - lac Livourneyaz",
+    "url": "https://www.relive.cc/view/vAOZnZP3XoO",
+    "photographer": "Jean Micol",
+    "image": "images/2023/www-relive-cc-view-vAOZnZP3XoO.jpg",
+    "srcImage": "https://video.relive.cc/elif-46552709611_garmin-health_1690908888024.png?x-ref=og&w=480"
+  },
+  {
+    "date": "2023-07-31",
+    "name": "De la Lechère à Prarayer",
+    "url": "https://www.relive.cc/view/vNOPQ3mQG26",
+    "photographer": "Jean Micol",
+    "image": "images/2023/www-relive-cc-view-vNOPQ3mQG26.jpg",
+    "srcImage": "https://video.relive.cc/elif-74453528611_garmin-health_1690830331156.png?x-ref=og&w=480"
+  },
+  {
+    "date": "2023-08-02",
+    "name": "Prarayer - Col Colomb",
+    "url": "https://www.relive.cc/view/vevYQZGLjJv",
+    "photographer": "Jean Micol",
+    "image": "images/2023/www-relive-cc-view-vevYQZGLjJv.jpg",
+    "srcImage": "https://video.relive.cc/elif-40843789611_garmin-health_1690996392298.png?x-ref=og&w=480"
   }
 ]
